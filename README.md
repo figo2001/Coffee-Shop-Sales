@@ -1,8 +1,4 @@
-Sure! Here’s a template for a GitHub README file for a Coffee Shop Sales Analysis project using Excel:
-
----
-
-# Coffee Shop Sales Analysis
+# Coffee Shop Sales Analysis ☕
 
 Welcome to the Coffee Shop Sales Analysis project! This project involves analyzing sales data from a coffee shop using Excel to uncover insights, trends, and opportunities for improvement.
 
